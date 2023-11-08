@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS1\Assignment3_PS1\bin\Debug\net6.0\Assignment3_PS1.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS1\Assignment3_PS1\bin\Debug\net6.0\Assignment3_PS1.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS1\Assignment3_PS1\bin\Debug\net6.0\Assignment3_PS1.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS1\Assignment3_PS1\bin\Debug\net6.0\Assignment3_PS1.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS1\Assignment3_PS1\bin\Debug\net6.0\Assignment3_PS1.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS1\Assignment3_PS1\obj\Debug\net6.0\Assignment3_PS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS1\Assignment3_PS1\obj\Debug\net6.0\Assignment3_PS1.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS1\Assignment3_PS1\obj\Debug\net6.0\Assignment3_PS1.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS1\Assignment3_PS1\obj\Debug\net6.0\Assignment3_PS1.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS1\Assignment3_PS1\obj\Debug\net6.0\Assignment3_PS1.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS1\Assignment3_PS1\obj\Debug\net6.0\refint\Assignment3_PS1.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS1\Assignment3_PS1\obj\Debug\net6.0\Assignment3_PS1.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS1\Assignment3_PS1\obj\Debug\net6.0\Assignment3_PS1.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS1\Assignment3_PS1\obj\Debug\net6.0\ref\Assignment3_PS1.dll
